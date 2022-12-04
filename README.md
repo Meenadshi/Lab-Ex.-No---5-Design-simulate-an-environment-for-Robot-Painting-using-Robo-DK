@@ -195,7 +195,10 @@ Home target
 ![image](https://user-images.githubusercontent.com/36288975/173729436-d4d9e8b7-7504-4b24-beda-dd213813557d.png)
 
 ##Program:
-/*&ACCESS RVP
+~~~
+Developed by: M.MEENADSHI
+RegisterNumber:  212220040086
+&ACCESS RVP
 &REL 1
 &PARAM TEMPLATE = C:\KRC\Roboter\Template\vorgabe
 &PARAM EDITMASK = *
@@ -255,13 +258,13 @@ LIN {X 1254.300,Y -793.956,Z 621.299,A -180.000,B 16.211,C 180.000,E1 0.00000}
 LIN {X 1354.510,Y -793.956,Z 621.243,A -180.000,B 16.211,C 180.000,E1 0.00000}
 END
  
-Developed by: M.MEENADSHI
-RegisterNumber:  212220040086
-*/
+
+~~~
  
 
  
 ## Results of simulation :
- ![painting lab exam](https://user-images.githubusercontent.com/88670187/205497992-64276e7d-42a5-432c-90f4-c797c6db9810.png)
+ ![painting lab exam](https://user-images.githubusercontent.com/88670187/205499672-171ad469-a21e-4312-9bd2-db78437ec738.png)
+
 ##Result:
 To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
